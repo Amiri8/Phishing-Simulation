@@ -89,10 +89,10 @@ This confirms that the phishing simulation successfully detected and logged cred
 
 # Key Takeaways
 
-The campaign successfully simulated a real-world credential-harvest phishing attempt.
+The campaign successfully simulated a real world credential harvest phishing attempt.
 
 Microsoft Defender accurately tracked user interactions and marked compromised accounts.
 
-Follow-up training was automatically assigned to the compromised user to reinforce phishing awareness.
+Follow up training was automatically assigned to the compromised user to reinforce phishing awareness.
 
-This type of controlled phishing simulation is essential for measuring organizational readiness and strengthening security culture.
+This type of controlled phishing simulation is essential for measuring organisational readiness and strengthening security culture.
