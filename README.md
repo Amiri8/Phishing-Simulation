@@ -53,5 +53,46 @@ Once the simulaion was lunched, I checked one of the users email addresses and c
 <img width="2844" height="1438" alt="Screenshot 2025-11-06 124714" src="https://github.com/user-attachments/assets/a9986913-b768-4b35-a8a0-4a3ebfe4f219" />
 
 
-# How to investigate & response 
-To review if a user had clicked on the link... 
+# Simulation Summary
+
+- Total users targeted: 3
+
+- Compromised users: 1 (33.33%)
+
+- Users who reported the email: 0 (0%)
+
+- Training completion rate: 0% (training not yet started)
+
+- Average time to first click: 46 seconds
+
+<img width="2880" height="1468" alt="Screenshot 2025-11-06 125113" src="https://github.com/user-attachments/assets/a4884f9e-3ad4-4a10-8639-2667b41efa3e" />
+
+
+
+
+
+# Detailed User Activity
+
+Selecting Jenny Smith reveals the timeline of her actions during the simulation:
+
+- 11:50:21 — Clicked the message link
+
+- 11:50:25 — Read the phishing message
+
+- 11:51:03 — Supplied credentials on the phishing landing page
+
+This confirms that the phishing simulation successfully detected and logged credential submission activity.
+
+<img width="2878" height="1460" alt="Screenshot 2025-11-06 125239" src="https://github.com/user-attachments/assets/163bb4b2-b2c6-488e-a9db-71be19d3a6fd" />
+
+
+
+# Key Takeaways
+
+The campaign successfully simulated a real-world credential-harvest phishing attempt.
+
+Microsoft Defender accurately tracked user interactions and marked compromised accounts.
+
+Follow-up training was automatically assigned to the compromised user to reinforce phishing awareness.
+
+This type of controlled phishing simulation is essential for measuring organizational readiness and strengthening security culture.
